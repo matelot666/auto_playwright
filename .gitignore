@@ -1,0 +1,24 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Output test projects
+output/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
